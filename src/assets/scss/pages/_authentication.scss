@@ -36,8 +36,8 @@
     background-size: cover;
 
     .bg-overlay{
-        background: linear-gradient(to right, var(--#{$prefix}primary-text-emphasis), var(--#{$prefix}primary));
-        opacity: 0.9;
+        background-color: #6cbbe3;
+        opacity: 0.5;
     }
 }
 
